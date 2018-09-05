@@ -1,0 +1,11 @@
+.Footer {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.Footer-pi {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  cursor: pointer;
+  padding: 10px;
+}
